@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tasnova</h1>
 <h3 align="center">A passionate UI/UX Designer | Flutter Developer | Machine Learning Enthusiast</h3>
-<h2 align="center">Strategizing digital platforms that feel intuitive, intelligent, and unforgettable.</h2>
+<h5 align="center">Strategizing digital platforms that feel intuitive, intelligent, and unforgettable.</h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tasnovahassan&label=Profile%20views&color=0e75b6&style=flat" alt="tasnovahassan" /> </p>
 
